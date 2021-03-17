@@ -1,4 +1,4 @@
-# Test-app-digis
+# Test-app-young
 
 If you want to visit app please go to [link](http://IvanDanylevych.github.io/young-app-test/).
 
